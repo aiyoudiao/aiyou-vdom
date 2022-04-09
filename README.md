@@ -22,6 +22,12 @@ yarn dev
 
 如果不行，可以在issue中说一下，我给你解决一下。
 
+## 效果
+
+![](https://gitee.com/aiyoudiao/images/raw/master/2022/04/09/1649488620440-dcb89390-dedf-4616-99f5-348ae2a451d7.png)
+
+![](https://gitee.com/aiyoudiao/images/raw/master/2022/04/09/1649488592532-2651f4a4-6a4d-458e-b735-8fb9eb7c7785.png)
+
 ## 设计思路
 
 四个操作：正常的虚拟dom操作，diff算法，h函数返回虚拟dom，还有renderer渲染器将dom插入进视图。
